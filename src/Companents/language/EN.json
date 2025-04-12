@@ -1,0 +1,15 @@
+{
+  "ime": "Author",
+  "Proekt": "Projects",  
+  "Contact": "Contacts",
+  "Hello": "Hi, I am",
+  "Name": "Zerda",
+   "Header": "I am a frontend developer and a true artist of code. Programming for me is not just a craft, it's a form of creativity where every line of code can be beautiful.",
+   "body":"I love my job. Since 2023, I have been self-learning development, growing towards creating high-quality web applications. I am especially passionate about React JS, but I do not limit myself to just the frontend; I am also studying the backend to create full-fledged, user-friendly applications.",
+   "skils": "Skills",
+   "Live": "I love bringing ideas to life!",
+   "Me" : "Contact me",
+   "always" : "- I’m always open to new projects and interesting challenges.",
+   "write" : "For inquiries, write to my Gmail:"
+}
+  
